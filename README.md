@@ -20,7 +20,7 @@ we clarify here for external readers:
 
 *   **PR**: Stands for "pull request", which means one self-contained change that
     has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change", "patch", or "pull-request".
+    Other organizations often call this a "change", "patch", or "changelist".
 *   **LGTM**: Means "Looks Good to Me". It is what a code reviewer says when
     approving a PR.
 
