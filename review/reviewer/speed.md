@@ -57,7 +57,8 @@ returning from a meeting, coming back from the breakroom, etc.
 
 When we talk about the speed of code reviews, it is the _response_ time that we
 are concerned with, as opposed to how long it takes a PR to get through the
-whole review and be merged important for the _individual responses_ to come quickly
+whole review and be merged. The whole process should also be fast, ideally,
+but **it's even more important for the _individual responses_ to come quickly
 than it is for the whole process to happen rapidly.**
 
 Even if it sometimes takes a long time to get through the entire review
