@@ -25,8 +25,12 @@ There is some Shpock-internal terminology used in some of these documents:
 
 ## License
 
-The documents in this project are licensed under the
-[CC-By 3.0 License](LICENSE), which encourages you to share these documents. See
-<https://creativecommons.org/licenses/by/3.0/> for more details.
+The documents in this project are based on the [Google Engineering Practices][1]
+documentation. They are licensed under the [CC-By 3.0 License](LICENSE), which
+encourages you to share these documents.
+
+[1]: https://google.github.io/eng-practices/
+
+See <https://creativecommons.org/licenses/by/3.0/> for more details.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
