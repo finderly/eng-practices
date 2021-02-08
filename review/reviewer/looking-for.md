@@ -106,9 +106,9 @@ should be used, and how it behaves when used.
 
 ## Style
 
-We have [style guides](http://google.github.io/styleguide/) at Google for all
-of our major languages, and even for most of the minor languages. Make sure the
-PR follows the appropriate style guides.
+We will have style guides for all of our major languages. Make sure the PR
+follows the appropriate style guides, where available. In the meantime, see
+Google's [style guides](http://google.github.io/styleguide/).
 
 If you want to improve some style point that isn't in the style guide, prefix
 your comment with "Nit:" to let the developer know that it's a nitpick that you
@@ -162,7 +162,7 @@ code is doing.
 
 If it's too hard for you to read the code and this is slowing down the review,
 then you should let the developer know that
-and wait for them to clarify it before you try to review it. At Google, we hire
+and wait for them to clarify it before you try to review it. At Shpock, we hire
 great software engineers, and you are one of them. If you can't understand the
 code, it's very likely that other developers won't either. So you're also
 helping future developers understand this code, when you ask the developer to

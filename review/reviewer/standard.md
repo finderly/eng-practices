@@ -2,10 +2,9 @@
 
 
 
-The primary purpose of code review is to make sure that the overall
-code health of Google's code
-base is improving over time. All of the tools and processes of code review are
-designed to this end.
+The primary purpose of code review is to make sure that the overall code health
+of the team's code base is improving over time. All of the tools and processes
+of code review are designed to this end.
 
 In order to accomplish this, a series of trade-offs have to be balanced.
 
@@ -71,10 +70,10 @@ indicate that it's not mandatory for the author to resolve it in this PR.
 
 *   Technical facts and data overrule opinions and personal preferences.
 
-*   On matters of style, the [style guide](http://google.github.io/styleguide/)
-    is the absolute authority. Any purely style point (whitespace, etc.) that is
-    not in the style guide is a matter of personal preference. The style should
-    be consistent with what is there. If there is no previous style, accept the
+*   On matters of style, the style guide (once available) is the absolute
+    authority. Any purely style point (whitespace, etc.) that is not in the
+    style guide is a matter of personal preference. The style should be
+    consistent with what is there. If there is no previous style, accept the
     author's.
 
 *   **Aspects of software design are almost never a pure style issue or just a
